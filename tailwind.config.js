@@ -103,6 +103,12 @@ module.exports = {
         serious: {
           400: 'var(--color-status-serious-400)',
           500: 'var(--color-status-serious-500)'
+        },
+        snowflakes: {
+          'dark-surface': 'var(--color-snowflakes-dark-surface)',
+          'light-shadow': 'var(--color-snowflakes-light-shadow)',
+          'dark-selected': 'var(--color-snowflakes-dark-selected)',
+          'light-selected': 'var(--color-snowflakes-light-selected)'
         }
       },
     },
